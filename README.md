@@ -3,7 +3,7 @@
 
 # I. Project Title
 ## Predicting Water Potability Using Machine Learning
-### :Ensuring Safe Drinking   
+### :Ensuring Safe Drinking🧺
 
 <br><br/>
 # II. Project Introduction
