@@ -1,3 +1,5 @@
+### ※ The docs folder also contains PowerPoint presentations.
+
 # I. Project Title
 ## Predicting Water Potability Using Machine Learning
 ### :Ensuring Safe Drinking   
@@ -70,5 +72,4 @@ Turbidity is determined by the amount of suspended solids in the water and indic
 #### Potability
 Potability is represented by a binary variable, where 1 indicates the water is safe for human consumption, and 0 indicates the water is unsafe to drink.
 
-## ※ The docs folder also contains PowerPoint presentations.
 
