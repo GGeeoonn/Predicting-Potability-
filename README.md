@@ -1,4 +1,4 @@
-### ※ The docs folder also contains PowerPoint presentations.
+### ※ The docs folder also contains a PowerPoint file with the same content.
 <br><br/>
 
 # I. Project Title
