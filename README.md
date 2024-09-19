@@ -1,4 +1,5 @@
 ### ※ The docs folder also contains PowerPoint presentations.
+<br><br/>
 
 # I. Project Title
 ## Predicting Water Potability Using Machine Learning
