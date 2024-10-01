@@ -2,7 +2,7 @@
 <br><br/>
 
 # I. Project Title
-## Drinking Guard🧺
+## PureWater🧺
 ### :Predicting Water Potability Using Machine Learning
 
 <br><br/>
