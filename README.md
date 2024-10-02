@@ -1,5 +1,11 @@
-<span style="color:red"> ### ※ The docs folder also contains a PowerPoint file with the same content. </span>
+### ※ The docs folder also contains a PowerPoint file with the same content.
 <br><br/>
+### ※ You need to run pip install xgboost to execute the code.
+### ※ You need to run pip install seaborn to execute the code.
+<br><br/>
+
+
+
 
 
 
