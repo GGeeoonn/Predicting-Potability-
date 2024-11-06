@@ -30,7 +30,7 @@ The causes of pollution and water quality vary across regions, necessitating tai
 
 # III. Dataset Description
 ## Water Potability Dataset
-In this project, a total of 3,276 data samples are divided into Training set, Validation set, and Test set for use in model development.
+In this project, a total of 3,276 data samples are preprocessed and 2011 data are divided into training sets, validation sets, and test sets for model development.
 <br><br/>
 ### Training Set:
 Composed of 1,608 samples.
